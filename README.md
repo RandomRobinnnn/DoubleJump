@@ -1,6 +1,5 @@
 # Minecraft Code Requests
-
-Welcome! This repository contains some code for Spigot/PaperSpigot that has been requested by others.
+Welcome! This repository contains some code for Spigot/PaperSpigot that has been requested.
 
 
 # Disclaimer
